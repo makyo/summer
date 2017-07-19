@@ -16,6 +16,7 @@ layout: base
     * Inner Demons
     * Party
     * Extend/novelize Rum & Coke
+    * Flash fiction
     * LaTeX book
     * Essays
         * Gender: Furry
